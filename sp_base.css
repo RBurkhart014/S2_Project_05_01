@@ -28,6 +28,8 @@ li, main, nav, ol, p, section, span, ul {
    background: transparent; 
 }
 
+/* Edit's all elements  */
+
 nav ul {
    list-style: none;
    list-style-image: none;

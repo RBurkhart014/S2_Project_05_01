@@ -17,7 +17,7 @@
 html {
     height: 100%;
 }
-
+/* The height of the page entirely */
 body {
     width: 95%;
     max-width: 960px;
@@ -26,7 +26,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-
+/* The main body of the webpage */
 header, ul, nav, li, a {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -64,7 +64,7 @@ header > nav a {
     width: 100%;
 }
 
-
+/* Editing all the nested elements within the parent elements */
 
 
 /* Horizontal Navigation List Styles */
@@ -73,7 +73,7 @@ nav.horizontal li {
     width: 12.5%;
     float: left;
 }
-
+/* Making the nav horizonaly aligned across the page */
 
 
 /* Topics Styles */
@@ -91,7 +91,7 @@ ul#topics li {
     margin-left: auto;
     margin-right: auto;
 }
-
+/* This makes all the list topics float and display in a certain location on the webpage */
 
 /* HR Styles */
 hr {
@@ -128,9 +128,9 @@ hr {
     float: left;
     width: 70%;
 }
-
+/* Makes it so all the comments listed right under the images have specified locations */
 /* Footer Styles */
 footer {
     clear: both;
 }
-
+/* Made the bar at the bottom clear */

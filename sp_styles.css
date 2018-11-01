@@ -15,13 +15,13 @@
 html {
    background-color: rgb(230, 182, 144);
 }
-
+/* Made the entire background of the webpage tan */
 body {
    background-color: rgb(250, 238, 218);
    font-family: Verdana, Geneva, Arial, sans-serif; 
 }
 
-
+/* Made the body of the page white and gave it a certain font to use */
 
 /* Page Header Styles */
 
@@ -29,13 +29,14 @@ body > header {
    background-color: rgb(61, 138, 216);
 }
 
+/* changed the color of the header nested within the body */
 
 body > header > nav a {
    font-size: 1em;
    margin: 0.4em 0;
    padding: 5px;
 }
-
+/* changed the font size and size of the next in the nav nested within the header and body */
 body > header > nav a:link, body > header > nav:visited {
    color: rgb(250, 238, 218);
 }
@@ -43,7 +44,7 @@ body > header > nav a:link, body > header > nav:visited {
 body > header > nav a:hover, body > header > nav:active {
    background-color: rgba(0, 0, 0, 0.2);
 }
-
+/* Edited the way that the links and text appear */
 
 /* Horizontal Navigation List Styles */
 
@@ -53,7 +54,7 @@ nav.horizontal ul li {
    padding: 10px 0;
    text-align: center;     
 }
-
+/* made the nav horizontal in the center, along with a blue tint and certain spacing */
 nav.horizontal a:link, nav.horizontal a:visited {
    color: rgb(250, 238, 218);
 }
